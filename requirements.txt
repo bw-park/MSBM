@@ -1,0 +1,19 @@
+scipy==1.14.0
+termcolor
+easydict
+ipdb
+tqdm
+scikit-learn==1.5.1
+pandas==2.2.2
+matplotlib
+tensorboard
+ml-collections==0.1.1
+colored-traceback
+prefetch_generator
+# pyyaml==5.4.1
+torch-ema
+gdown
+POT
+rich
+geomloss
+einops==0.8.1
